@@ -11,3 +11,8 @@ a {
 a:hover {
   color: #ff7b29;
 }
+
+@font-face {
+  font-family: "Lobster";
+  src: local("Lobster"), url("lobster.woff") format("woff");
+}
