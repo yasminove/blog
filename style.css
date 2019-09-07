@@ -20,3 +20,9 @@ a:hover {
 body {
   font-family: "Lobster", "Comic Sans", cursive;
 }
+
+h2 {
+  font-size: 22px;
+  font-weight: bold;
+  margin-bottom: 6px;
+}
