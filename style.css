@@ -7,3 +7,7 @@ p {
 a {
   color: #0087cc;
 }
+
+a:hover {
+  color: #ff7b29;
+}
