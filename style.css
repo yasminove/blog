@@ -16,3 +16,7 @@ a:hover {
   font-family: "Lobster";
   src: local("Lobster"), url("lobster.woff") format("woff");
 }
+
+body {
+  font-family: "Lobster", "Comic Sans", cursive;
+}
